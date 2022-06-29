@@ -1,0 +1,54 @@
+
+/* BODY */
+
+body{background-image: url(background.jpg);border: 1px;border-radius:20px;margin: 5px 5px;}
+
+
+/* MENU_BAR */
+
+.li {list-style: none;}
+
+.li a{text-decoration: none;transition: 0.3s all}
+
+.li a:hover{color:yellow;background-color: #2a2a2a;text-decoration:wavy;border: 2px;border-radius: 7px;padding: 7px 7px;}
+
+.container1{background-color: rgb(0, 38, 209);}
+
+.container1 nav ul li a{color:whitesmoke;font-size: 25px;}
+
+
+/* SUBJECT */
+
+.container2{background-color:rgba(0, 0, 0, 0.308) ;border: 10px;border-radius: 10px;padding: 0px 0px;}
+
+.h1{font-size: 40px;padding-left: 50px;background-color: rgba(0, 0, 0, 0.767);color:aquamarine;border: 1px;border-radius: 10px;transition: 0.3s all;}
+
+.h2{font-size: 26px;padding-left: 50px;background-color: rgba(0, 0, 0, 0.822);color: rgba(255, 255, 255, 0.89);border: 1px;border-radius: 4px;transition: 0.3s all;}
+
+.h3{font-size: 20px;color:rgba(240, 255, 255, 0.884);background-color:rgba(0, 0, 0, 0.733);padding-left: 50px;border: 1px;border-radius: 5px;transition: 0.3s all;}
+
+.ml{color:black;font-size: 25px;font-family:cursive;background-color:rgba(127, 255, 212, 0.897);border: 1px;border-radius: 7px;text-align:center;padding: 0px 50px;transition: 0.3s all;}
+
+
+a>img{background-color: rgba(0, 0, 0, 0.795);border: 100px;border-radius: 100px;transition: 0.3s all;}
+
+.icons{text-align: center;border-radius: 100px;padding-bottom: 50px;padding-top: 80px;}
+
+.icons_list li{list-style: none;display: inline-block;margin: 0px 50px;}
+
+/*icons_img*/
+.ig{height: 100px;transition: 0.3s all;}
+.fb{height: 100px;transition: 0.3s all;}
+.tg{height: 100px;transition: 0.3s all;}
+
+/* Footer */
+
+footer nav p{font-size: 40px;text-align: center;font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+
+.footer nav {margin: 2.5px 2.5px;padding: 5px;text-align: center;}
+.jit{text-decoration: none;transition: 0.3s all;font-size: 25px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: azure;}
+.footer{padding: 10px 0px;background-color: black;}
+
+.jit:hover{color:yellow;background-color: #2c2c2c;text-decoration:wavy;border: 2px;border-radius: 7px;padding: 7px 7px;}
+
+.foot{background-color: black;}
